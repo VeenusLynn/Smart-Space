@@ -1,0 +1,9 @@
+[submodule "smart-space-api"]
+	path = smart-space-api
+	url = https://github.com/VeenusLynn/SmartSpace-API.git
+[submodule "smart-space-client"]
+	path = smart-space-client
+	url = https://github.com/VeenusLynn/SmartSpace-Client.git
+[submodule "smart-space-detection"]
+	path = smart-space-detection
+	url = https://github.com/VeenusLynn/SmartSpace-detectionModule.git
